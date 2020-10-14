@@ -6,4 +6,6 @@ main(){
 
 	cout << "Hello world";
 
+	getchar();
+
 }
